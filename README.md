@@ -16,7 +16,7 @@ This project deploys the classic 2048 game using AWS EKS with Fargate and ALB In
 
 ##  Screenshots
 
-| Game Interface | EKS Cluster | etc. |
+| Game Interface | EKS Cluster | etc. | https://github.com/AshvinAN/2048-game-aws-eks/tree/c45679ef5d44ccdfe0af26c332839b927b10a609/screenshots
 |----------------|-------------|
 | ![](./screenshots/2048-Game-Console.png) | ![](./screenshots/EKS-cluster.png) | etc.
 
