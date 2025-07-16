@@ -41,8 +41,9 @@ This project deploys the classic 2048 game using AWS EKS with Fargate and ALB In
 4. Verified service and ingress with:
 
 bash:
-[kubectl get all -n game-2048]
-[kubectl get ingress -n game-2048]
+kubectl get all -n game-2048
+&
+kubectl get ingress -n game-2048
 
 5. Accessed game in browser via ALB Ingress URL
 
