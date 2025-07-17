@@ -1,8 +1,8 @@
-## 🎮 2048 Game on AWS EKS (Fargate)
+## 🎮 2048 Game on AWS EKS
 
-A fun implementation of the 2048 game deployed using AWS EKS, ALB Ingress Controller, and Fargate.
+Deployed with AWS EKS (Fargate) + Kubernetes + ALB Ingress Controller
 
-![2048 Game Demo](./AshvinAN/2048-demo.gif)
+![2048 Game Demo](https://raw.githubusercontent.com/AshvinAN/AshvinAN/main/2048-demo.gif)
 
 
 ##  Tech Stack
