@@ -2,7 +2,7 @@
 
 A fun implementation of the 2048 game deployed using AWS EKS, ALB Ingress Controller, and Fargate.
 
-![2048 Game Demo](./assets/2048-demo.gif)
+![2048 Game Demo](./AshvinAN/2048-demo.gif)
 
 
 ##  Tech Stack
